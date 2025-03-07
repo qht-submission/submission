@@ -1,4 +1,4 @@
-# QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution
+# QuantSR+: Pushing the Limit of Quantized Image Super-Resolution Networks
 This project is the official implementation of our paper *QuantSR+: Pushing the Limit of Quantized Image Super-Resolution Networks*.
 
 ![loading-ag-172](./imgs/overview.png)
